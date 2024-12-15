@@ -1,0 +1,10 @@
+# Pliki VSCode
+.vscode/
+*.code-workspace
+
+# Pliki wykonywalne
+*.exe
+
+# Pliki tymczasowe
+*.obj
+*.tmp
